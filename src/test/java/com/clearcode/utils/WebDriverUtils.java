@@ -124,6 +124,27 @@ public class WebDriverUtils {
                     ScreenshotOf.BROWSER_PAGE));
 		}
 		
+		public void submit(By loc) {
+			try
+			{
+				find(loc).submit();
+			}
+			catch(WebDriverException e) {
+				try
+				{
+					Actions act = new Actions(driver);
+					act.click(find(loc)).perform();
+				}
+				catch(Exception ex)
+				{
+				JavascriptExecutor js = (JavascriptExecutor) driver;
+				js.executeScript("argument[0].click()", find(loc));
+				}
+			}
+			ATUReports.add("Click at"+loc.toString(), LogAs.PASSED, new CaptureScreen(
+                    ScreenshotOf.BROWSER_PAGE));
+		}
+		
 		public void selectByVisibleText(By loc, String value) {
 			Select obj = new Select(find(loc));
 			obj.selectByVisibleText(value);
@@ -162,6 +183,19 @@ public class WebDriverUtils {
 			try
 			{
 			Assert.assertEquals(find(loc).getText(), text);
+			ATUReports.add("Assert Text",text,find(loc).getText(), LogAs.PASSED, new CaptureScreen(
+                    ScreenshotOf.BROWSER_PAGE));
+			}
+			catch(AssertionError e) {
+				ATUReports.add("Assert Text",text,find(loc).getText(), LogAs.FAILED, new CaptureScreen(
+	                    ScreenshotOf.BROWSER_PAGE));
+			}
+		}
+		
+		public void assertContains(By loc, String text) {
+			try
+			{
+			if (text.contains(find(loc).getText()));
 			ATUReports.add("Assert Text",text,find(loc).getText(), LogAs.PASSED, new CaptureScreen(
                     ScreenshotOf.BROWSER_PAGE));
 			}

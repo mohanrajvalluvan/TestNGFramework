@@ -6,10 +6,15 @@ import com.clearcode.utils.ExcelUtils;
 public class LoginData {
 	int a=2;
 	@DataProvider
-	public Object[][] negativeLogin(){
-		return ExcelUtils.getData("TestData.xls", "NegativeLogin");
+	public Object[][] addProduct(){
+		return ExcelUtils.getData("TestData.xls", "addproduct");
 	}
 	
+	@DataProvider
+	public Object[][] addProduct2(){
+		return ExcelUtils.getData("TestData.xls", "addproduct2");
+	}
+
 	@DataProvider
 	public Object[][] CreatePatient(){
 		return new Object[][] { 
