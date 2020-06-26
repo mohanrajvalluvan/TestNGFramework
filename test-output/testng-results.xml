@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[STEP1]]>
@@ -328,20 +328,344 @@
     <line>
       <![CDATA[STEP109]]>
     </line>
+    <line>
+      <![CDATA[STEP110]]>
+    </line>
+    <line>
+      <![CDATA[STEP111]]>
+    </line>
+    <line>
+      <![CDATA[STEP112]]>
+    </line>
+    <line>
+      <![CDATA[STEP113]]>
+    </line>
+    <line>
+      <![CDATA[STEP114]]>
+    </line>
+    <line>
+      <![CDATA[STEP115]]>
+    </line>
+    <line>
+      <![CDATA[STEP116]]>
+    </line>
+    <line>
+      <![CDATA[STEP117]]>
+    </line>
+    <line>
+      <![CDATA[STEP118]]>
+    </line>
+    <line>
+      <![CDATA[STEP119]]>
+    </line>
+    <line>
+      <![CDATA[STEP120]]>
+    </line>
+    <line>
+      <![CDATA[STEP121]]>
+    </line>
+    <line>
+      <![CDATA[STEP122]]>
+    </line>
+    <line>
+      <![CDATA[STEP123]]>
+    </line>
+    <line>
+      <![CDATA[STEP124]]>
+    </line>
+    <line>
+      <![CDATA[STEP125]]>
+    </line>
+    <line>
+      <![CDATA[STEP126]]>
+    </line>
+    <line>
+      <![CDATA[STEP127]]>
+    </line>
+    <line>
+      <![CDATA[STEP128]]>
+    </line>
+    <line>
+      <![CDATA[STEP129]]>
+    </line>
+    <line>
+      <![CDATA[STEP130]]>
+    </line>
+    <line>
+      <![CDATA[STEP131]]>
+    </line>
+    <line>
+      <![CDATA[STEP132]]>
+    </line>
+    <line>
+      <![CDATA[STEP133]]>
+    </line>
+    <line>
+      <![CDATA[STEP134]]>
+    </line>
+    <line>
+      <![CDATA[STEP135]]>
+    </line>
+    <line>
+      <![CDATA[STEP136]]>
+    </line>
+    <line>
+      <![CDATA[STEP137]]>
+    </line>
+    <line>
+      <![CDATA[STEP138]]>
+    </line>
+    <line>
+      <![CDATA[STEP139]]>
+    </line>
+    <line>
+      <![CDATA[STEP140]]>
+    </line>
+    <line>
+      <![CDATA[STEP141]]>
+    </line>
+    <line>
+      <![CDATA[STEP142]]>
+    </line>
+    <line>
+      <![CDATA[STEP143]]>
+    </line>
+    <line>
+      <![CDATA[STEP144]]>
+    </line>
+    <line>
+      <![CDATA[STEP145]]>
+    </line>
+    <line>
+      <![CDATA[STEP146]]>
+    </line>
+    <line>
+      <![CDATA[STEP147]]>
+    </line>
+    <line>
+      <![CDATA[STEP148]]>
+    </line>
+    <line>
+      <![CDATA[STEP149]]>
+    </line>
+    <line>
+      <![CDATA[STEP150]]>
+    </line>
+    <line>
+      <![CDATA[STEP151]]>
+    </line>
+    <line>
+      <![CDATA[STEP152]]>
+    </line>
+    <line>
+      <![CDATA[STEP153]]>
+    </line>
+    <line>
+      <![CDATA[STEP154]]>
+    </line>
+    <line>
+      <![CDATA[STEP155]]>
+    </line>
+    <line>
+      <![CDATA[STEP156]]>
+    </line>
+    <line>
+      <![CDATA[STEP157]]>
+    </line>
+    <line>
+      <![CDATA[STEP158]]>
+    </line>
+    <line>
+      <![CDATA[STEP159]]>
+    </line>
+    <line>
+      <![CDATA[STEP160]]>
+    </line>
+    <line>
+      <![CDATA[STEP161]]>
+    </line>
+    <line>
+      <![CDATA[STEP162]]>
+    </line>
+    <line>
+      <![CDATA[STEP163]]>
+    </line>
+    <line>
+      <![CDATA[STEP164]]>
+    </line>
+    <line>
+      <![CDATA[STEP165]]>
+    </line>
+    <line>
+      <![CDATA[STEP166]]>
+    </line>
+    <line>
+      <![CDATA[STEP167]]>
+    </line>
+    <line>
+      <![CDATA[STEP168]]>
+    </line>
+    <line>
+      <![CDATA[STEP169]]>
+    </line>
+    <line>
+      <![CDATA[STEP170]]>
+    </line>
+    <line>
+      <![CDATA[STEP171]]>
+    </line>
+    <line>
+      <![CDATA[STEP172]]>
+    </line>
+    <line>
+      <![CDATA[STEP173]]>
+    </line>
+    <line>
+      <![CDATA[STEP174]]>
+    </line>
+    <line>
+      <![CDATA[STEP175]]>
+    </line>
+    <line>
+      <![CDATA[STEP176]]>
+    </line>
+    <line>
+      <![CDATA[STEP177]]>
+    </line>
+    <line>
+      <![CDATA[STEP178]]>
+    </line>
+    <line>
+      <![CDATA[STEP179]]>
+    </line>
+    <line>
+      <![CDATA[STEP180]]>
+    </line>
+    <line>
+      <![CDATA[STEP181]]>
+    </line>
+    <line>
+      <![CDATA[STEP182]]>
+    </line>
+    <line>
+      <![CDATA[STEP183]]>
+    </line>
+    <line>
+      <![CDATA[STEP184]]>
+    </line>
+    <line>
+      <![CDATA[STEP185]]>
+    </line>
+    <line>
+      <![CDATA[STEP186]]>
+    </line>
+    <line>
+      <![CDATA[STEP187]]>
+    </line>
+    <line>
+      <![CDATA[STEP188]]>
+    </line>
+    <line>
+      <![CDATA[STEP189]]>
+    </line>
+    <line>
+      <![CDATA[STEP190]]>
+    </line>
+    <line>
+      <![CDATA[STEP191]]>
+    </line>
+    <line>
+      <![CDATA[STEP192]]>
+    </line>
+    <line>
+      <![CDATA[STEP193]]>
+    </line>
+    <line>
+      <![CDATA[STEP194]]>
+    </line>
+    <line>
+      <![CDATA[STEP195]]>
+    </line>
+    <line>
+      <![CDATA[STEP196]]>
+    </line>
+    <line>
+      <![CDATA[STEP197]]>
+    </line>
+    <line>
+      <![CDATA[STEP198]]>
+    </line>
+    <line>
+      <![CDATA[STEP199]]>
+    </line>
+    <line>
+      <![CDATA[STEP200]]>
+    </line>
+    <line>
+      <![CDATA[STEP201]]>
+    </line>
+    <line>
+      <![CDATA[STEP202]]>
+    </line>
+    <line>
+      <![CDATA[STEP203]]>
+    </line>
+    <line>
+      <![CDATA[STEP204]]>
+    </line>
+    <line>
+      <![CDATA[STEP205]]>
+    </line>
+    <line>
+      <![CDATA[STEP206]]>
+    </line>
+    <line>
+      <![CDATA[STEP207]]>
+    </line>
+    <line>
+      <![CDATA[STEP208]]>
+    </line>
+    <line>
+      <![CDATA[STEP209]]>
+    </line>
+    <line>
+      <![CDATA[STEP210]]>
+    </line>
+    <line>
+      <![CDATA[STEP211]]>
+    </line>
+    <line>
+      <![CDATA[STEP212]]>
+    </line>
+    <line>
+      <![CDATA[STEP213]]>
+    </line>
+    <line>
+      <![CDATA[STEP214]]>
+    </line>
+    <line>
+      <![CDATA[STEP215]]>
+    </line>
+    <line>
+      <![CDATA[STEP216]]>
+    </line>
+    <line>
+      <![CDATA[STEP217]]>
+    </line>
   </reporter-output>
-  <suite started-at="2020-06-18T17:46:10 IST" name="Default suite" finished-at="2020-06-18T17:48:01 IST" duration-ms="111716">
+  <suite started-at="2020-06-26T10:20:29 IST" name="Default suite" finished-at="2020-06-26T10:23:21 IST" duration-ms="171583">
     <groups>
     </groups>
-    <test started-at="2020-06-18T17:46:10 IST" name="Default test" finished-at="2020-06-18T17:48:01 IST" duration-ms="111716">
+    <test started-at="2020-06-26T10:20:29 IST" name="Default test" finished-at="2020-06-26T10:23:21 IST" duration-ms="171583">
       <class name="com.clearcode.testsuite.TestSuite1">
-        <test-method is-config="true" signature="launch()[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:46:10 IST" name="launch" finished-at="2020-06-18T17:46:19 IST" duration-ms="9310" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:20:29 IST" name="launch" finished-at="2020-06-26T10:20:38 IST" duration-ms="8980" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[STEP1]]>
             </line>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:46:20 IST" name="loadUrl" finished-at="2020-06-18T17:46:25 IST" duration-ms="4952" status="PASS">
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:20:39 IST" name="loadUrl" finished-at="2020-06-26T10:20:43 IST" duration-ms="4511" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[STEP2]]>
@@ -351,7 +675,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loadUrl -->
-        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:46:25 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-18T17:46:50 IST" duration-ms="24637" status="PASS">
+        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:20:43 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-26T10:21:04 IST" duration-ms="20548" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -477,7 +801,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addProduct -->
-        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:46:50 IST" name="loadUrl" finished-at="2020-06-18T17:46:51 IST" duration-ms="1561" status="PASS">
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:21:04 IST" name="loadUrl" finished-at="2020-06-26T10:21:05 IST" duration-ms="1283" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[STEP29]]>
@@ -487,7 +811,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loadUrl -->
-        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:46:51 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-18T17:47:14 IST" duration-ms="22911" status="PASS">
+        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:21:05 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-26T10:21:24 IST" duration-ms="18646" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -613,7 +937,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addProduct -->
-        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:47:14 IST" name="loadUrl" finished-at="2020-06-18T17:47:15 IST" duration-ms="1414" status="PASS">
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:21:24 IST" name="loadUrl" finished-at="2020-06-26T10:21:25 IST" duration-ms="1322" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[STEP56]]>
@@ -623,7 +947,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loadUrl -->
-        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:47:15 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-18T17:47:38 IST" duration-ms="22164" status="PASS">
+        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:21:25 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-26T10:21:44 IST" duration-ms="18365" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -749,7 +1073,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addProduct -->
-        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:47:38 IST" name="loadUrl" finished-at="2020-06-18T17:47:40 IST" duration-ms="2007" status="PASS">
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:21:44 IST" name="loadUrl" finished-at="2020-06-26T10:21:45 IST" duration-ms="1248" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[STEP83]]>
@@ -759,7 +1083,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- loadUrl -->
-        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:47:40 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-18T17:48:01 IST" duration-ms="21701" status="PASS">
+        <test-method signature="addProduct(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:21:45 IST" name="addProduct" data-provider="addProduct" finished-at="2020-06-26T10:22:05 IST" duration-ms="19979" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -885,7 +1209,551 @@
             </line>
           </reporter-output>
         </test-method> <!-- addProduct -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.clearcode.testsuite.TestSuite1@25d250c6]" started-at="2020-06-18T17:48:01 IST" name="close" finished-at="2020-06-18T17:48:01 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:22:05 IST" name="loadUrl" finished-at="2020-06-26T10:22:06 IST" duration-ms="1281" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP110]]>
+            </line>
+            <line>
+              <![CDATA[STEP111]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method signature="addProduct2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:22:06 IST" name="addProduct2" data-provider="addProduct2" finished-at="2020-06-26T10:22:24 IST" duration-ms="17522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Data 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP112]]>
+            </line>
+            <line>
+              <![CDATA[STEP113]]>
+            </line>
+            <line>
+              <![CDATA[STEP114]]>
+            </line>
+            <line>
+              <![CDATA[STEP115]]>
+            </line>
+            <line>
+              <![CDATA[STEP116]]>
+            </line>
+            <line>
+              <![CDATA[STEP117]]>
+            </line>
+            <line>
+              <![CDATA[STEP118]]>
+            </line>
+            <line>
+              <![CDATA[STEP119]]>
+            </line>
+            <line>
+              <![CDATA[STEP120]]>
+            </line>
+            <line>
+              <![CDATA[STEP121]]>
+            </line>
+            <line>
+              <![CDATA[STEP122]]>
+            </line>
+            <line>
+              <![CDATA[STEP123]]>
+            </line>
+            <line>
+              <![CDATA[STEP124]]>
+            </line>
+            <line>
+              <![CDATA[STEP125]]>
+            </line>
+            <line>
+              <![CDATA[STEP126]]>
+            </line>
+            <line>
+              <![CDATA[STEP127]]>
+            </line>
+            <line>
+              <![CDATA[STEP128]]>
+            </line>
+            <line>
+              <![CDATA[STEP129]]>
+            </line>
+            <line>
+              <![CDATA[STEP130]]>
+            </line>
+            <line>
+              <![CDATA[STEP131]]>
+            </line>
+            <line>
+              <![CDATA[STEP132]]>
+            </line>
+            <line>
+              <![CDATA[STEP133]]>
+            </line>
+            <line>
+              <![CDATA[STEP134]]>
+            </line>
+            <line>
+              <![CDATA[STEP135]]>
+            </line>
+            <line>
+              <![CDATA[STEP136]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct2 -->
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:22:24 IST" name="loadUrl" finished-at="2020-06-26T10:22:25 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP137]]>
+            </line>
+            <line>
+              <![CDATA[STEP138]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method signature="addProduct2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:22:25 IST" name="addProduct2" data-provider="addProduct2" finished-at="2020-06-26T10:22:42 IST" duration-ms="17444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Data 2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Blazer(II-V)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP139]]>
+            </line>
+            <line>
+              <![CDATA[STEP140]]>
+            </line>
+            <line>
+              <![CDATA[STEP141]]>
+            </line>
+            <line>
+              <![CDATA[STEP142]]>
+            </line>
+            <line>
+              <![CDATA[STEP143]]>
+            </line>
+            <line>
+              <![CDATA[STEP144]]>
+            </line>
+            <line>
+              <![CDATA[STEP145]]>
+            </line>
+            <line>
+              <![CDATA[STEP146]]>
+            </line>
+            <line>
+              <![CDATA[STEP147]]>
+            </line>
+            <line>
+              <![CDATA[STEP148]]>
+            </line>
+            <line>
+              <![CDATA[STEP149]]>
+            </line>
+            <line>
+              <![CDATA[STEP150]]>
+            </line>
+            <line>
+              <![CDATA[STEP151]]>
+            </line>
+            <line>
+              <![CDATA[STEP152]]>
+            </line>
+            <line>
+              <![CDATA[STEP153]]>
+            </line>
+            <line>
+              <![CDATA[STEP154]]>
+            </line>
+            <line>
+              <![CDATA[STEP155]]>
+            </line>
+            <line>
+              <![CDATA[STEP156]]>
+            </line>
+            <line>
+              <![CDATA[STEP157]]>
+            </line>
+            <line>
+              <![CDATA[STEP158]]>
+            </line>
+            <line>
+              <![CDATA[STEP159]]>
+            </line>
+            <line>
+              <![CDATA[STEP160]]>
+            </line>
+            <line>
+              <![CDATA[STEP161]]>
+            </line>
+            <line>
+              <![CDATA[STEP162]]>
+            </line>
+            <line>
+              <![CDATA[STEP163]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct2 -->
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:22:42 IST" name="loadUrl" finished-at="2020-06-26T10:22:44 IST" duration-ms="1225" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP164]]>
+            </line>
+            <line>
+              <![CDATA[STEP165]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method signature="addProduct2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:22:44 IST" name="addProduct2" data-provider="addProduct2" finished-at="2020-06-26T10:23:02 IST" duration-ms="18643" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Data 3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Socks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[socks]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP166]]>
+            </line>
+            <line>
+              <![CDATA[STEP167]]>
+            </line>
+            <line>
+              <![CDATA[STEP168]]>
+            </line>
+            <line>
+              <![CDATA[STEP169]]>
+            </line>
+            <line>
+              <![CDATA[STEP170]]>
+            </line>
+            <line>
+              <![CDATA[STEP171]]>
+            </line>
+            <line>
+              <![CDATA[STEP172]]>
+            </line>
+            <line>
+              <![CDATA[STEP173]]>
+            </line>
+            <line>
+              <![CDATA[STEP174]]>
+            </line>
+            <line>
+              <![CDATA[STEP175]]>
+            </line>
+            <line>
+              <![CDATA[STEP176]]>
+            </line>
+            <line>
+              <![CDATA[STEP177]]>
+            </line>
+            <line>
+              <![CDATA[STEP178]]>
+            </line>
+            <line>
+              <![CDATA[STEP179]]>
+            </line>
+            <line>
+              <![CDATA[STEP180]]>
+            </line>
+            <line>
+              <![CDATA[STEP181]]>
+            </line>
+            <line>
+              <![CDATA[STEP182]]>
+            </line>
+            <line>
+              <![CDATA[STEP183]]>
+            </line>
+            <line>
+              <![CDATA[STEP184]]>
+            </line>
+            <line>
+              <![CDATA[STEP185]]>
+            </line>
+            <line>
+              <![CDATA[STEP186]]>
+            </line>
+            <line>
+              <![CDATA[STEP187]]>
+            </line>
+            <line>
+              <![CDATA[STEP188]]>
+            </line>
+            <line>
+              <![CDATA[STEP189]]>
+            </line>
+            <line>
+              <![CDATA[STEP190]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct2 -->
+        <test-method is-config="true" signature="loadUrl()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:23:02 IST" name="loadUrl" finished-at="2020-06-26T10:23:03 IST" duration-ms="1224" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP191]]>
+            </line>
+            <line>
+              <![CDATA[STEP192]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method signature="addProduct2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:23:03 IST" name="addProduct2" data-provider="addProduct2" finished-at="2020-06-26T10:23:21 IST" duration-ms="17586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Data 4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shirt]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SHI-201]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Shirts]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[800]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP193]]>
+            </line>
+            <line>
+              <![CDATA[STEP194]]>
+            </line>
+            <line>
+              <![CDATA[STEP195]]>
+            </line>
+            <line>
+              <![CDATA[STEP196]]>
+            </line>
+            <line>
+              <![CDATA[STEP197]]>
+            </line>
+            <line>
+              <![CDATA[STEP198]]>
+            </line>
+            <line>
+              <![CDATA[STEP199]]>
+            </line>
+            <line>
+              <![CDATA[STEP200]]>
+            </line>
+            <line>
+              <![CDATA[STEP201]]>
+            </line>
+            <line>
+              <![CDATA[STEP202]]>
+            </line>
+            <line>
+              <![CDATA[STEP203]]>
+            </line>
+            <line>
+              <![CDATA[STEP204]]>
+            </line>
+            <line>
+              <![CDATA[STEP205]]>
+            </line>
+            <line>
+              <![CDATA[STEP206]]>
+            </line>
+            <line>
+              <![CDATA[STEP207]]>
+            </line>
+            <line>
+              <![CDATA[STEP208]]>
+            </line>
+            <line>
+              <![CDATA[STEP209]]>
+            </line>
+            <line>
+              <![CDATA[STEP210]]>
+            </line>
+            <line>
+              <![CDATA[STEP211]]>
+            </line>
+            <line>
+              <![CDATA[STEP212]]>
+            </line>
+            <line>
+              <![CDATA[STEP213]]>
+            </line>
+            <line>
+              <![CDATA[STEP214]]>
+            </line>
+            <line>
+              <![CDATA[STEP215]]>
+            </line>
+            <line>
+              <![CDATA[STEP216]]>
+            </line>
+            <line>
+              <![CDATA[STEP217]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.clearcode.testsuite.TestSuite1@4df50bcc]" started-at="2020-06-26T10:23:21 IST" name="close" finished-at="2020-06-26T10:23:21 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
